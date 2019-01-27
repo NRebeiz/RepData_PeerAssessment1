@@ -1,5 +1,4 @@
 ---
-
 title: "Report: Reproducible Research, Course Project 1"
 author: "Natalie Rebeiz"
 date: "January 27, 2019"
